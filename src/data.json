@@ -1,0 +1,68 @@
+[
+    {
+        "id": "p01",
+        "name": "almond croissant",
+        "pict": "images/almond_croissant.png",
+        "price": 100
+    },
+    {
+        "id": "p02",
+        "name": "caramen mousset",
+        "pict": "images/caramen_mousset.png",
+        "price": 103
+    },
+    {
+        "id": "p03",
+        "name": "muffin raisin",
+        "pict": "images/muffin_raisin.png",
+        "price": 90
+    },
+    {
+        "id": "p04",
+        "name": "opera cake",
+        "pict": "images/opera.png",
+        "price": 150
+    },
+    {
+        "id": "p05",
+        "name": "passion cheese",
+        "pict": "images/passion_cheese.png",
+        "price": 20
+    },
+    {
+        "id": "p06",
+        "name": "pate chaud",
+        "pict": "images/pate_chaud.png",
+        "price": 190
+    },
+    {
+        "id": "p07",
+        "name": "chocolate 1",
+        "pict": "images/sweet_1.png",
+        "price": 120
+    },
+    {
+        "id": "p08",
+        "name": "chocolate 2",
+        "pict": "images/sweet_2.png",
+        "price": 150
+    },
+    {
+        "id": "p09",
+        "name": "chocolate 3",
+        "pict": "images/sweet_3.png",
+        "price": 140
+    },
+    {
+        "id": "p10",
+        "name": "chocolate 4",
+        "pict": "images/sweet_4.png",
+        "price": 230
+    },
+    {
+        "id": "p11",
+        "name": "chocolate 5",
+        "pict": "images/sweet_5.png",
+        "price": 99
+    }
+]
